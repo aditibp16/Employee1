@@ -5,8 +5,10 @@ public class BasicOperations{
         int sum = a + b;
         int diff = a - b;
         int prod = a * b;
+        int div = a/b;
         System.out.println("Addition " + sum);
         System.out.println("Substraction "+ diff);
         System.out.println("Multiplication"+ prod);
+        System.out.println("Division"+ div);
     }
 }
